@@ -1,0 +1,34 @@
+.parallax {
+    background-image: url("assets/images/back1.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+#headerOfPage{
+    font-size: 100px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.imgSize {
+
+    width: 20px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+#flexSwitchCheckDefault {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+#currenciesGallery{
+    padding-top: 60px;
+    padding-left: 80px;
+}
